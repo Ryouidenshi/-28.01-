@@ -1,0 +1,7 @@
+C:\Users\Stas74\source\repos\visilitsa\obj\Debug\visilitsa.g.resources
+C:\Users\Stas74\source\repos\visilitsa\bin\Debug\visilitsa.exe.config
+C:\Users\Stas74\source\repos\visilitsa\bin\Debug\visilitsa.exe
+C:\Users\Stas74\source\repos\visilitsa\bin\Debug\visilitsa.pdb
+C:\Users\Stas74\source\repos\visilitsa\obj\Debug\visilitsa.exe
+C:\Users\Stas74\source\repos\visilitsa\obj\Debug\visilitsa.pdb
+C:\Users\Stas74\source\repos\visilitsa\obj\Debug\visilitsa.csprojAssemblyReference.cache
